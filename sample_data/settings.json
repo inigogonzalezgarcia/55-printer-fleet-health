@@ -1,0 +1,41 @@
+{
+  "organisation": "Northwind Traders",
+  "review_date": "2026-11-16 08:30",
+  "approved_firmware": {
+    "NX-A3C 4500": "4.12.3",
+    "NX-A4M 3200": "3.8.1",
+    "NX-A4C 3300": "3.8.1",
+    "LP-210 desk laser": "2.4.0",
+    "LBL-4T label printer": "1.9.2"
+  },
+  "approved_drivers": {
+    "NX Universal PCL6": "7.4.0.0"
+  },
+  "recommended_volume": {
+    "mfp-a3": 12000,
+    "mfp-a4": 5000,
+    "desk": 1500,
+    "label": 20000
+  },
+  "low_volume": {
+    "mfp-a3": 1500,
+    "mfp-a4": 600,
+    "desk": 150
+  },
+  "supply_days": 10,
+  "order_lead_days": 3,
+  "stuck_minutes": 30,
+  "offline_hours": 24,
+  "max_age_years": 7,
+  "lease_warning_days": 120,
+  "colour_share_max": 35,
+  "repeat_tickets": 3,
+  "repeat_window_days": 30,
+  "owners": {
+    "SUPPORT": "Service desk",
+    "PRINT": "Print services team",
+    "SECURITY": "IT security",
+    "VENDOR": "Vendor manager",
+    "DECISION": "IT site leads"
+  }
+}

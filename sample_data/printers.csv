@@ -1,0 +1,39 @@
+Printer,Site,Location,Type,Model,Serial,IP,Department,Contract,Installed,LeaseEnd,SecureRelease,Sensitive,Status
+HQ-F1-MFP1,Madrid HQ,Floor 1,mfp-a3,NX-A3C 4500,NX6523555,10.10.1.21,Finance,MPS-2024,2024-02-12,2028-01-31,yes,yes,active
+HQ-F1-MFP2,Madrid HQ,Floor 1,mfp-a3,NX-A3C 4500,NX6523556,10.10.1.22,HR,MPS-2024,2024-02-12,2028-01-31,no,yes,active
+HQ-F1-P01,Madrid HQ,Floor 1,desk,LP-210 desk laser,NX9945696,10.10.1.31,Finance,,2018-03-05,,no,no,active
+HQ-F1-P02,Madrid HQ,Floor 1,desk,LP-210 desk laser,NX9945697,10.10.1.32,HR,,2021-09-20,,no,no,active
+HQ-F2-MFP1,Madrid HQ,Floor 2,mfp-a3,NX-A3C 4500,NX6013206,10.10.2.21,Marketing,MPS-2024,2024-02-12,2028-01-31,no,no,active
+HQ-F2-MFP2,Madrid HQ,Floor 2,mfp-a3,NX-A3C 4500,NX6013207,10.10.2.22,Sales,MPS-2024,2024-02-12,2028-01-31,no,no,active
+HQ-F2-P01,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445617,10.10.2.31,Marketing,,2017-06-12,,no,no,active
+HQ-F2-P02,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445618,10.10.2.32,Marketing,,2017-06-12,,no,no,active
+HQ-F2-P03,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445619,10.10.2.33,Sales,,2019-04-08,,no,no,active
+HQ-F2-P04,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445620,10.10.2.34,Sales,,2019-04-08,,no,no,active
+HQ-F2-P05,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445621,10.10.2.35,Sales,,2019-04-08,,no,no,active
+HQ-F3-MFP1,Madrid HQ,Floor 3,mfp-a3,NX-A3C 4500,NX5502857,10.10.3.21,Legal,MPS-2024,2024-02-12,2028-01-31,no,yes,active
+HQ-F3-MFP2,Madrid HQ,Floor 3,mfp-a4,NX-A4M 3200,NX5502858,10.10.3.22,IT,MPS-2021,2021-01-25,2027-01-20,no,no,active
+HQ-F3-P01,Madrid HQ,Floor 3,desk,LP-210 desk laser,NX8945538,10.10.3.31,IT,,2018-11-02,,no,no,active
+HQ-F3-P02,Madrid HQ,Floor 3,desk,LP-210 desk laser,NX8945539,10.10.3.32,Executive,,2022-05-16,,yes,yes,active
+DC-OF-MFP1,Zaragoza DC,Office,mfp-a3,NX-A3C 4500,NX8747097,10.70.1.21,Logistics,MPS-2021,2021-01-25,2027-01-31,no,no,active
+DC-OF-MFP2,Zaragoza DC,Office,mfp-a4,NX-A4M 3200,NX8747098,10.70.1.22,Logistics,MPS-2021,2021-01-25,2027-01-31,no,no,active
+DC-DOCK-L01,Zaragoza DC,Dock,label,LBL-4T label printer,NX6760794,10.70.5.41,Logistics,LBL-2023,2023-03-01,,no,no,active
+DC-DOCK-L02,Zaragoza DC,Dock,label,LBL-4T label printer,NX6760795,10.70.5.42,Logistics,LBL-2023,2023-03-01,,no,no,active
+DC-DOCK-L03,Zaragoza DC,Dock,label,LBL-4T label printer,NX6760796,10.70.5.43,Logistics,LBL-2023,2023-03-01,,no,no,active
+DC-DOCK-L04,Zaragoza DC,Dock,label,LBL-4T label printer,NX6760797,10.70.5.44,Logistics,LBL-2023,2023-03-01,,no,no,active
+ST-MGV-MFP,Store Madrid Gran Via,Back office,mfp-a4,NX-A4C 3300,NX4994545,10.21.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-MGV-P01,Store Madrid Gran Via,Counter,desk,LP-210 desk laser,NX5043115,10.21.2.30,Retail,,2022-03-14,,no,no,active
+ST-MSR-MFP,Store Madrid Serrano,Back office,mfp-a4,NX-A4C 3300,NX0870673,10.22.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-MSR-P01,Store Madrid Serrano,Counter,desk,LP-210 desk laser,NX0919243,10.22.2.30,Retail,,2022-03-14,,no,no,active
+ST-BDG-MFP,Store Barcelona Diagonal,Back office,mfp-a4,NX-A4C 3300,NX4439686,10.31.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-BDG-P01,Store Barcelona Diagonal,Counter,desk,LP-210 desk laser,NX4488256,10.31.2.30,Retail,,2022-03-14,,no,no,active
+ST-BGR-MFP,Store Barcelona Gracia,Back office,mfp-a4,NX-A4C 3300,NX2407770,10.32.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-BGR-P01,Store Barcelona Gracia,Counter,desk,LP-210 desk laser,NX2456340,10.32.2.30,Retail,,2022-03-14,,no,no,active
+ST-VLC-MFP,Store Valencia,Back office,mfp-a4,NX-A4C 3300,NX5242830,10.41.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-VLC-P01,Store Valencia,Counter,desk,LP-210 desk laser,NX5291400,10.41.2.30,Retail,,2022-03-14,,no,no,active
+ST-SVQ-MFP,Store Sevilla,Back office,mfp-a4,NX-A4C 3300,NX3705391,10.51.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-SVQ-P01,Store Sevilla,Counter,desk,LP-210 desk laser,NX3753961,10.51.2.30,Retail,,2019-10-01,,no,no,active
+ST-LIS-MFP,Store Lisboa Chiado,Back office,mfp-a4,NX-A4C 3300,NX7329803,10.61.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-LIS-P01,Store Lisboa Chiado,Counter,desk,LP-210 desk laser,NX7378373,10.61.2.30,Retail,,2022-03-14,,no,no,active
+ST-OPO-MFP,Store Porto,Back office,mfp-a4,NX-A4C 3300,NX5190519,10.62.2.20,Retail,MPS-2024,2024-05-06,2028-04-30,no,no,active
+ST-OPO-P01,Store Porto,Counter,desk,LP-210 desk laser,NX5239089,10.62.2.30,Retail,,2019-10-01,,no,no,active
+HQ-F2-P06,Madrid HQ,Floor 2,desk,LP-210 desk laser,NX4445622,10.10.2.36,Sales,,2016-02-01,,no,no,retired

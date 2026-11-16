@@ -1,0 +1,4 @@
+Contract,Vendor,Type,ClickMono,ClickColour,MonthlyFee,ResponseHours,End,NoticeDays,CreditPerBreach
+MPS-2024,Litware Print Services,Managed print,0.008,0.055,38,8,2028-04-30,90,150
+MPS-2021,Litware Print Services,Managed print,0.009,0.060,42,8,2027-01-31,60,150
+LBL-2023,Tailspin Label Systems,Lease and support,0,0,25,24,2028-02-28,60,0
